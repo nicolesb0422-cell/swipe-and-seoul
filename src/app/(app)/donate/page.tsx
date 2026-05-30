@@ -82,13 +82,13 @@ export default function DonatePage() {
 
         <div className="flex flex-col gap-3 mb-6">
           {[
-            { emoji: "🧋", label: "Bubble Tea",    price: "$3",  amount: 3,  desc: "A small thank-you" },
-            { emoji: "🌶️", label: "Tteokbokki",   price: "$5",  amount: 5,  desc: "Spicy appreciation 🔥" },
-            { emoji: "🍲", label: "Kimchi Jjigae", price: "$10", amount: 10, desc: "You're basically family now" },
+            { emoji: "🧋", label: "Bubble Tea",    price: "$3",  desc: "A small thank-you" },
+            { emoji: "🌶️", label: "Tteokbokki",   price: "$5",  desc: "Spicy appreciation 🔥" },
+            { emoji: "🍲", label: "Kimchi Jjigae", price: "$10", desc: "You're basically family now" },
           ].map(tier => (
             <a
               key={tier.label}
-              href={`https://www.paypal.com/donate?business=nicolesb0422%40gmail.com&currency_code=USD&amount=${tier.amount}`}
+              href="https://ko-fi.com/toobietoobers"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-4 p-5 rounded-2xl border transition-all active:scale-95"
@@ -104,19 +104,19 @@ export default function DonatePage() {
           ))}
         </div>
 
-        {/* PayPal main CTA */}
+        {/* Ko-fi CTA */}
         <a
-          href="https://www.paypal.com/donate?business=nicolesb0422%40gmail.com&currency_code=USD"
+          href="https://ko-fi.com/toobietoobers"
           target="_blank"
           rel="noopener noreferrer"
           className="w-full py-4 rounded-2xl text-[15px] font-black text-center block transition-opacity active:opacity-80"
-          style={{ background: "linear-gradient(135deg,#009cde,#003087)", color: "#fff" }}
+          style={{ background: "#FF5E5B", color: "#fff" }}
         >
-          💙 Donate via PayPal
+          ☕ Support us on Ko-fi
         </a>
 
         <p className="text-center text-[11px] mt-3" style={{ color: "#5a4e3e" }}>
-          nicolesb0422@gmail.com · Any amount means the world to us
+          PayPal · Credit card · Any amount means the world to us
         </p>
       </div>
 

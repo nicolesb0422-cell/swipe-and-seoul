@@ -243,7 +243,7 @@ export default async function LandingPage() {
               ].map(tier => (
                 <a
                   key={tier.label}
-                  href={`https://www.paypal.com/donate?business=nicolesb0422%40gmail.com&currency_code=USD&amount=${tier.price.replace("$","")}`}
+                  href={`https://ko-fi.com/toobietoobers`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-4 rounded-2xl border transition-all active:scale-95 hover:border-amber-600/50"
@@ -262,7 +262,7 @@ export default async function LandingPage() {
                 className="mt-2 text-center py-4 rounded-2xl text-[14px] font-black transition-opacity active:opacity-80"
                 style={{ background: "linear-gradient(90deg,#d97706,#b45309)", color: "#1c1208" }}
               >
-                💙 Donate via PayPal →
+                ☕ Support us on Ko-fi →
               </Link>
             </div>
 
