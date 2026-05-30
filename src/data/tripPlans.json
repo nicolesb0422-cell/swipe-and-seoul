@@ -1,0 +1,622 @@
+[
+  {
+    "id": "plan-yeouido",
+    "title": "A Yeouido Day",
+    "baseArea": "Yeouido",
+    "fitReason": "Seoul's financial island has world-class malls, the Han River, and a skyline you won't forget.",
+    "stops": [
+      {
+        "time": "10:00 AM",
+        "type": "experience",
+        "name": "Yeouido Han River Park",
+        "area": "Yeouido",
+        "description": "Start with a riverside walk along the Han. Rent a bike and cruise along the water while the city wakes up.",
+        "tip": "Bikesharing kiosks are right at the park entrance. ₩1,000/hour for the orange Ddareungi bikes.",
+        "budget": "Budget",
+        "naverQuery": "여의도한강공원",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min" },
+      {
+        "time": "11:30 AM",
+        "type": "shopping",
+        "name": "The Hyundai Seoul",
+        "area": "Yeouido",
+        "description": "Korea's most beautifully designed mall — a 3-story indoor forest under a glass ceiling, K-fashion pop-ups, luxury brands, and the best indoor architecture in the city.",
+        "tip": "5th floor has quieter cafés with skyline views. Blue Bottle Coffee inside the mall is a solid stop. The weekend GOTCHA GOTCHA vending machine on B2 has a line for a reason.",
+        "budget": "Moderate",
+        "naverQuery": "더현대서울",
+        "todayOnly": false
+      },
+      { "transit": "Walk 3 min" },
+      {
+        "time": "1:30 PM",
+        "type": "food",
+        "name": "The Hyundai B2 Food Hall",
+        "area": "Yeouido",
+        "description": "50+ food vendors in one basement — Korean, Japanese, Italian, and desserts that'll make you forget everything else.",
+        "tip": "Far right wing is less crowded. The wagyu sandwich spot near the escalator is legendary.",
+        "budget": "Moderate",
+        "naverQuery": "더현대서울 B2",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "3:30 PM",
+        "type": "shopping",
+        "name": "IFC Seoul Mall",
+        "area": "Yeouido",
+        "description": "Sleek underground mall in the finance district with international brands, a good food court, and direct subway access.",
+        "tip": "The basement floor has a great Mega Coffee and a bakery. Cooler and less crowded than Hyundai.",
+        "budget": "Budget",
+        "naverQuery": "여의도 IFC몰",
+        "todayOnly": false
+      },
+      { "transit": "Walk 8 min" },
+      {
+        "time": "5:00 PM",
+        "type": "attraction",
+        "name": "63 Building Sky Art",
+        "area": "Yeouido",
+        "description": "Seoul's golden skyscraper with an observation deck and wax museum. The Han River and city panorama at golden hour is stunning.",
+        "tip": "Combo ticket (wax museum + observation) is best value. Go right before sunset.",
+        "budget": "Moderate",
+        "naverQuery": "63빌딩 스카이아트",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min to riverside" },
+      {
+        "time": "8:00 PM",
+        "type": "experience",
+        "name": "Han River Night Picnic",
+        "area": "Yeouido",
+        "description": "Grab fried chicken and cold cider from the GS25 riverside store, spread out on a rental mat, and watch Seoul's lights reflect on the water.",
+        "tip": "Mat rentals ₩3,000. The spot between the two bridges has the best unobstructed skyline view.",
+        "budget": "Budget",
+        "naverQuery": "여의도한강공원 편의점",
+        "todayOnly": false
+      }
+    ]
+  },
+  {
+    "id": "plan-jongno",
+    "title": "Old Seoul, All Day",
+    "baseArea": "Jongno / Bukchon",
+    "fitReason": "The soul of Korea in one neighborhood — five centuries of history within walking distance.",
+    "stops": [
+      {
+        "time": "9:00 AM",
+        "type": "attraction",
+        "name": "Gyeongbokgung Palace",
+        "area": "Jongno",
+        "description": "Korea's grandest palace — more impressive in person than any photo suggests. Guard-changing ceremony runs at 10 AM and 2 PM.",
+        "tip": "Rent hanbok at the gate (₩15,000) for free entry + amazing photos in the courtyard. Get there early.",
+        "budget": "Budget",
+        "naverQuery": "경복궁",
+        "todayOnly": false
+      },
+      { "transit": "Walk 15 min uphill" },
+      {
+        "time": "11:00 AM",
+        "type": "attraction",
+        "name": "Bukchon Hanok Village",
+        "area": "Jongno",
+        "description": "600-year-old alleyways of traditional Korean homes. The view from Alley 11 — hanok rooftops with modern Seoul behind — is the most photographed shot in the city.",
+        "tip": "Quiet before 11 AM. Be respectful — real families live here. No loud talking in the residential alleys.",
+        "budget": "Budget",
+        "naverQuery": "북촌한옥마을",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min" },
+      {
+        "time": "12:30 PM",
+        "type": "food",
+        "name": "Tongin Market Dosirak Café",
+        "area": "Jongno",
+        "description": "Buy tokens at the entrance, then fill a lunchbox from 30 stalls of traditional Korean dishes. One of the most unique food experiences in Seoul.",
+        "tip": "₩5,000 gets you 5 tokens. Try the tteok (rice cake), hotteok (sweet pancake), and ojingeo-twigim (fried squid).",
+        "budget": "Budget",
+        "naverQuery": "통인시장 도시락 카페",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "2:00 PM",
+        "type": "shopping",
+        "name": "Insadong",
+        "area": "Jongno",
+        "description": "Antique shops, traditional craft galleries, and the Ssamziegil courtyard. Best street in Seoul for unique, handmade gifts and Korean art.",
+        "tip": "Ssamziegil has the most interesting vendors — spiral courtyard with 70+ small shops. Skip the tourist trinkets near the entrance.",
+        "budget": "Budget",
+        "naverQuery": "인사동 쌈지길",
+        "todayOnly": false
+      },
+      { "transit": "Walk 15 min" },
+      {
+        "time": "4:30 PM",
+        "type": "cafe",
+        "name": "Cha Masineun Ttul (Traditional Tea House)",
+        "area": "Jongno",
+        "description": "Seoul's most beautiful tea house — set inside a 100-year-old hanok. Order the omija (five-flavored berry) tea and slow down completely.",
+        "tip": "Sit in the inner courtyard if available. Cash preferred. The walnut cookies are homemade.",
+        "budget": "Budget",
+        "naverQuery": "차마시는뜰",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min" },
+      {
+        "time": "7:00 PM",
+        "type": "food",
+        "name": "Euljiro Nogaridari (Beer Alley)",
+        "area": "Jongno",
+        "description": "The most iconic nighttime experience in old Seoul — outdoor tables under Daelim Arcade, cold draft beer, and dried fish snacks (nogari) that go for ₩5,000 a plate. Pure local energy.",
+        "tip": "Mansen Hopeu is the anchor stall but any outdoor table will do. Order the maneul tongdak (whole fried chicken) to share. This is where Seoulites actually come after work.",
+        "budget": "Budget",
+        "naverQuery": "을지로 노가리골목 만선호프",
+        "todayOnly": false
+      }
+    ]
+  },
+  {
+    "id": "plan-seongsu",
+    "title": "The Cool Seoul Crawl",
+    "baseArea": "Seongsu",
+    "fitReason": "Seoul's most creative neighborhood — converted factories, indie brands, and a coffee scene that rivals Tokyo.",
+    "stops": [
+      {
+        "time": "9:30 AM",
+        "type": "cafe",
+        "name": "Fritz Coffee Seongsu",
+        "area": "Seongsu",
+        "description": "Seoul's most cult-loved specialty roaster in a converted factory. The croissants sell out fast — the coffee is worth any wait.",
+        "tip": "Arrive right when they open. Order a flat white and the morning bun. The back room has more seating.",
+        "budget": "Budget",
+        "naverQuery": "프릳츠 성수점",
+        "todayOnly": false
+      },
+      { "transit": "Walk 8 min" },
+      {
+        "time": "10:30 AM",
+        "type": "cafe",
+        "name": "Cafe Onion Seongsu",
+        "area": "Seongsu",
+        "description": "A 1970s factory transformed into Seoul's most-photographed café. Industrial concrete walls, exposed steel, and pastries that justify the queue.",
+        "tip": "The rooftop terrace is hidden up the back stairs. Worth the extra 2 minutes to find it.",
+        "budget": "Budget",
+        "naverQuery": "카페어니언 성수",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "12:00 PM",
+        "type": "shopping",
+        "name": "Seongsu Pop-up Street",
+        "area": "Seongsu",
+        "description": "Korea's most dynamic retail district — new pop-ups open every week from Korean fashion brands, artists, and food concepts you can't find anywhere else.",
+        "tip": "Check @seongsu.official the night before for what's open. Bring cash. Most pop-ups are small and crowded.",
+        "budget": "Moderate",
+        "naverQuery": "성수동 팝업스토어",
+        "todayOnly": true
+      },
+      { "transit": "Walk 20 min or bus 10 min" },
+      {
+        "time": "3:00 PM",
+        "type": "experience",
+        "name": "Seoul Forest",
+        "area": "Seongsu",
+        "description": "A vast urban forest with a deer garden, butterfly greenhouse, and riverside trails. The deer will eat from your hand in the morning.",
+        "tip": "Deer feeding is in the morning only. The ecological garden (second section) is less crowded and more beautiful.",
+        "budget": "Budget",
+        "naverQuery": "서울숲",
+        "todayOnly": false
+      },
+      { "transit": "Walk back 15 min" },
+      {
+        "time": "6:00 PM",
+        "type": "food",
+        "name": "Seongsu-dong Dinner",
+        "area": "Seongsu",
+        "description": "The back streets of Seongsu have some of Seoul's best restaurants — Korean BBQ, handmade pasta, Japanese izakaya, all in repurposed factory spaces.",
+        "tip": "Naver Map search 성수동 맛집 and sort by newest reviews. The area around Concave Café has the best density.",
+        "budget": "Moderate",
+        "naverQuery": "성수동 맛집",
+        "todayOnly": false
+      }
+    ]
+  },
+  {
+    "id": "plan-gangnam",
+    "title": "Gangnam Proper",
+    "baseArea": "Gangnam",
+    "fitReason": "K-beauty flagships, Seoul's best temples, and a tree-lined boulevard that proves Gangnam is more than the song.",
+    "stops": [
+      {
+        "time": "10:00 AM",
+        "type": "attraction",
+        "name": "Bongeunsa Temple",
+        "area": "Gangnam",
+        "description": "A 1,200-year-old Buddhist temple standing quietly between Gangnam's towers. The giant Mireuk Buddha statue and the morning drum ceremony are genuinely moving.",
+        "tip": "Morning ceremony starts at 4 AM for early risers; normal visiting hours 9 AM–6 PM. Free to enter. The lotus lanterns (spring) are magical.",
+        "budget": "Budget",
+        "naverQuery": "봉은사",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min" },
+      {
+        "time": "11:30 AM",
+        "type": "attraction",
+        "name": "COEX Starfield Library",
+        "area": "Gangnam",
+        "description": "A 13-meter wall of books under a glass ceiling — one of Seoul's most iconic interiors. Free to browse, completely open, and stunning for photos.",
+        "tip": "Golden hour light (5–6 PM) is best for photos. The reading chairs are legitimately comfortable — bring a book.",
+        "budget": "Budget",
+        "naverQuery": "코엑스 별마당도서관",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "1:00 PM",
+        "type": "food",
+        "name": "Gangnam Gyoja",
+        "area": "Gangnam",
+        "description": "Michelin-recognized hand-cut noodles and dumplings just off Gangnam Station. The rich chicken broth kalguksu is one of the best bowls in Seoul for the price.",
+        "tip": "Get the kalguksu and an order of mandu. Weekday lunch hours (12–1 PM) have shorter waits than weekends.",
+        "budget": "Budget",
+        "naverQuery": "강남교자 본점",
+        "todayOnly": false
+      },
+      { "transit": "Subway 2 stops or taxi 10 min" },
+      {
+        "time": "3:00 PM",
+        "type": "shopping",
+        "name": "Garosu-gil",
+        "area": "Gangnam",
+        "description": "Seoul's most charming boulevard — ginkgo trees, boutique concept stores, international restaurants, and cafés with the best window seats in the city.",
+        "tip": "Start from the north end near Sinsa station and walk south. The side alleys are better than the main street.",
+        "budget": "Moderate",
+        "naverQuery": "가로수길",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "5:00 PM",
+        "type": "shopping",
+        "name": "Olive Young Gangnam Town",
+        "area": "Gangnam",
+        "description": "Korea's biggest K-beauty destination — 5 floors of skincare, makeup, and wellness from 200+ Korean brands. Staff give free consultations.",
+        "tip": "Bring a shopping list — it's overwhelming in a good way. The basement floor has indie Korean brands not available elsewhere.",
+        "budget": "Moderate",
+        "naverQuery": "올리브영 강남타운",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "8:00 PM",
+        "type": "food",
+        "name": "Gangnam Dinner",
+        "area": "Gangnam",
+        "description": "Garosu-gil and the surrounding streets have some of Seoul's best restaurants. Korean BBQ, pasta, tasting menus — all within a 5-minute walk.",
+        "tip": "Reservations recommended on weekends. Naver Map 가로수길 맛집 and filter by highest rated.",
+        "budget": "Moderate",
+        "naverQuery": "가로수길 맛집",
+        "todayOnly": false
+      }
+    ]
+  },
+  {
+    "id": "plan-hongdae",
+    "title": "The Hongdae Loop",
+    "baseArea": "Hongdae",
+    "fitReason": "Youth culture, street performances, the best café scene in Seoul, and nightlife that runs till sunrise.",
+    "stops": [
+      {
+        "time": "11:00 AM",
+        "type": "cafe",
+        "name": "Anthracite Coffee Hongdae",
+        "area": "Hongdae",
+        "description": "Seoul's most famous specialty café in a former shoe factory. High ceilings, rough concrete, and espresso that coffee nerds fly to Seoul for.",
+        "tip": "Sit at the bar facing the roasters if you want to talk coffee. The cold brew concentrate is a good takeaway.",
+        "budget": "Budget",
+        "naverQuery": "앤스러사이트 홍대",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "12:00 PM",
+        "type": "experience",
+        "name": "Hongdae Free Performance Zone",
+        "area": "Hongdae",
+        "description": "K-pop dance crews battle it out every weekend at this outdoor stage. No schedule, no tickets — just show up. One of the most electric free shows in Asia.",
+        "tip": "Weekends only, noon–4 PM is peak. The area near Exit 9 is the main performance hub. Check in from multiple angles.",
+        "budget": "Budget",
+        "naverQuery": "홍대 걷고싶은거리 버스킹",
+        "todayOnly": true
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "1:30 PM",
+        "type": "food",
+        "name": "Tuk Tuk Noodle Thai",
+        "area": "Hongdae",
+        "description": "Michelin Bib Gourmand Thai restaurant in Yeonnam-dong — the most authentic tom yum and pad thai in Seoul. The kind of place Michelin inspectors eat at, not just tourists.",
+        "tip": "Order the khao man gai (Thai chicken rice) and the green curry. Line forms outside; go at 1:30 PM to catch a slight lull between the main rushes.",
+        "budget": "Moderate",
+        "naverQuery": "툭툭누들타이 연남",
+        "todayOnly": false
+      },
+      { "transit": "Walk 15 min toward Sinchon" },
+      {
+        "time": "3:30 PM",
+        "type": "shopping",
+        "name": "Ewha University Street",
+        "area": "Hongdae",
+        "description": "Affordable Korean fashion, accessories, and beauty products on the shopping street near Ewha Womans University. Good prices, eclectic styles.",
+        "tip": "The underground shopping arcade (지하쇼핑) has the best deals. Korean hair accessories and beauty tools are especially cheap here.",
+        "budget": "Budget",
+        "naverQuery": "이대 앞 쇼핑거리",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min back to Hongdae" },
+      {
+        "time": "6:00 PM",
+        "type": "shopping",
+        "name": "Hongdae Main Street",
+        "area": "Hongdae",
+        "description": "Indie boutiques, streetwear, vintage stores, and K-beauty shops all within a few hundred meters. The density of interesting shops per block is unmatched.",
+        "tip": "The alley running parallel to the main street (one block east) has more local, less touristy shops.",
+        "budget": "Budget",
+        "naverQuery": "홍대거리",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "9:00 PM",
+        "type": "bar",
+        "name": "Hongdae Night",
+        "area": "Hongdae",
+        "description": "Seoul's best nightlife strip. Craft beer bars, rooftop cocktail lounges, and clubs that run until morning. Every music genre, every vibe.",
+        "tip": "Thursday Party is the classic backpacker bar crawl starting point. Club FF for electronic. Always check cover charges upfront.",
+        "budget": "Moderate",
+        "naverQuery": "홍대 Thursday Party",
+        "todayOnly": false
+      }
+    ]
+  },
+  {
+    "id": "plan-jamsil",
+    "title": "Jamsil High & Low",
+    "baseArea": "Jamsil",
+    "fitReason": "The world's 5th tallest building, Seoul's famous theme park, and cherry blossom lakeside walks — all in one district.",
+    "stops": [
+      {
+        "time": "9:30 AM",
+        "type": "experience",
+        "name": "Seokchon Lake Morning Walk",
+        "area": "Jamsil",
+        "description": "A peaceful lakeside loop around the lake beside Lotte World. Cherry blossoms in spring, firefly lights in winter — always beautiful.",
+        "tip": "The full loop is 2.5 km and takes about 30 minutes. Best before 10 AM when it's quiet. Lotte World Tower reflects perfectly in the lake.",
+        "budget": "Budget",
+        "naverQuery": "석촌호수 공원",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "11:00 AM",
+        "type": "shopping",
+        "name": "Lotte World Mall",
+        "area": "Jamsil",
+        "description": "One of Korea's largest entertainment malls — luxury brands, aquarium, cinema, and the full K-culture experience under one massive roof.",
+        "tip": "The aquarium is world-class and kid-friendly. Top floor food court has good views of Seokchon Lake.",
+        "budget": "Moderate",
+        "naverQuery": "잠실 롯데월드몰",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "1:00 PM",
+        "type": "food",
+        "name": "Lotte World Mall Food Hall",
+        "area": "Jamsil",
+        "description": "Multiple food floors with Korean, Japanese, and international options. The mid-tower food court has the best view while you eat.",
+        "tip": "Go to the upper floors for Korean BBQ sets. The basement has convenience store-level prices for quick bites.",
+        "budget": "Moderate",
+        "naverQuery": "롯데월드몰 식당가",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min to Tower" },
+      {
+        "time": "3:00 PM",
+        "type": "attraction",
+        "name": "Seoul Sky Observatory",
+        "area": "Jamsil",
+        "description": "555 meters up in the 5th tallest building in the world — the glass floor section is terrifying in the best way. Views stretch to Incheon on clear days.",
+        "tip": "Book tickets online to skip the queue. Sunset visits (5–7 PM) are the most popular — book 2 days ahead for weekends.",
+        "budget": "Moderate",
+        "naverQuery": "롯데월드타워 서울스카이",
+        "todayOnly": false
+      },
+      { "transit": "Subway 2 stops to Olympic Park" },
+      {
+        "time": "5:30 PM",
+        "type": "experience",
+        "name": "Olympic Park",
+        "area": "Jamsil",
+        "description": "The 1988 Seoul Olympics site is now a sprawling park full of outdoor sculptures, cycling paths, and weekend concert stages. One of Seoul's best-kept secrets.",
+        "tip": "The Rose Garden peaks in May. The outdoor concert lawn (Mongchontoseong) has free performances on summer weekends.",
+        "budget": "Budget",
+        "naverQuery": "올림픽공원",
+        "todayOnly": false
+      },
+      { "transit": "Subway 15 min back to Jamsil" },
+      {
+        "time": "8:00 PM",
+        "type": "food",
+        "name": "Jamsil Dinner",
+        "area": "Jamsil",
+        "description": "The streets around Lotte World have excellent Korean BBQ, grilled pork belly spots, and late-night pojangmacha tents.",
+        "tip": "Samgyeopsal (grilled pork belly) restaurants fill up fast after 7 PM — walk in early or wait. Soju is mandatory.",
+        "budget": "Budget",
+        "naverQuery": "잠실 삼겹살 맛집",
+        "todayOnly": false
+      }
+    ]
+  },
+  {
+    "id": "plan-myeongdong",
+    "title": "Myeongdong to Namsan",
+    "baseArea": "Myeongdong",
+    "fitReason": "K-beauty shopping, one of Seoul's most iconic towers, and a traditional village all within walking distance.",
+    "stops": [
+      {
+        "time": "10:00 AM",
+        "type": "attraction",
+        "name": "Namsangol Hanok Village",
+        "area": "Myeongdong",
+        "description": "Five restored traditional hanok houses at the foot of Namsan mountain. Free entry, weekend cultural performances, and a time capsule buried for the year 2394.",
+        "tip": "Free entry. The traditional courtyard in the back has the best photo spots. Performances on weekend afternoons.",
+        "budget": "Budget",
+        "naverQuery": "남산골한옥마을",
+        "todayOnly": false
+      },
+      { "transit": "Cable car or bus 15 min up Namsan" },
+      {
+        "time": "11:30 AM",
+        "type": "attraction",
+        "name": "N Seoul Tower",
+        "area": "Myeongdong",
+        "description": "Seoul's most recognizable landmark at the summit of Namsan. The love lock fence has millions of locks. The 360° night view is why people come back.",
+        "tip": "Combination ticket (cable car + observation deck) saves money. Go up at sunset for the best views.",
+        "budget": "Budget",
+        "naverQuery": "남산 N서울타워",
+        "todayOnly": false
+      },
+      { "transit": "Cable car or walk 30 min down to Myeongdong" },
+      {
+        "time": "1:30 PM",
+        "type": "food",
+        "name": "Myeongdong Kyoja",
+        "area": "Myeongdong",
+        "description": "Seoul's most famous noodle restaurant since 1966. Hand-cut kalguksu in a dense chicken broth, and dumplings so good they have their own Michelin recognition.",
+        "tip": "Order the kalguksu and a side of the mandu (dumplings). Lines go around the block at 12 PM — arrive at 1:30 PM to skip the worst of it.",
+        "budget": "Budget",
+        "naverQuery": "명동교자 본점",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "3:00 PM",
+        "type": "shopping",
+        "name": "Myeongdong K-Beauty District",
+        "area": "Myeongdong",
+        "description": "The highest concentration of K-beauty flagships in the world — Innisfree, Etude, Laneige, Sulwhasoo, and Olive Young all within a few blocks.",
+        "tip": "Staff in every store push free samples aggressively — use this to test before you buy. Prices are similar everywhere so shop by preference.",
+        "budget": "Budget",
+        "naverQuery": "명동 화장품 쇼핑",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min toward Namdaemun" },
+      {
+        "time": "5:30 PM",
+        "type": "shopping",
+        "name": "Namdaemun Market",
+        "area": "Myeongdong",
+        "description": "Korea's largest traditional market, operating since 1414. Wholesale clothes, Korean kitchenware, dried goods, and the best hotteok (sweet pancake) in Seoul.",
+        "tip": "The hotteok vendor near the main entrance (Gate 5) always has a line — completely worth it. Bring small bills for street food vendors.",
+        "budget": "Budget",
+        "naverQuery": "남대문시장",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min back to Myeongdong" },
+      {
+        "time": "7:30 PM",
+        "type": "food",
+        "name": "Myeongdong Dinner",
+        "area": "Myeongdong",
+        "description": "The side streets off main Myeongdong-gil have excellent Korean restaurants — dak galbi, samgyeopsal, bibimbap sets in the ₩10,000–₩15,000 range.",
+        "tip": "Avoid the restaurants with plastic food displays and photo menus — walk one block off the tourist strip for real prices.",
+        "budget": "Budget",
+        "naverQuery": "명동 한식 맛집",
+        "todayOnly": false
+      }
+    ]
+  },
+  {
+    "id": "plan-itaewon",
+    "title": "Itaewon & Beyond",
+    "baseArea": "Itaewon",
+    "fitReason": "World-class art, Seoul's most international food scene, and cocktail bars that rival anywhere in the world.",
+    "stops": [
+      {
+        "time": "10:00 AM",
+        "type": "attraction",
+        "name": "Leeum Samsung Museum of Art",
+        "area": "Itaewon",
+        "description": "One of Asia's finest private museums — ancient Korean celadon ceramics alongside Damien Hirst and Nam June Paik. The building itself (by Rem Koolhaas) is a work of art.",
+        "tip": "Free on the first Sunday of each month. Audio guide is worth the ₩2,000. The gift shop has beautiful Korean ceramics reproductions.",
+        "budget": "Moderate",
+        "naverQuery": "리움미술관",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min" },
+      {
+        "time": "12:00 PM",
+        "type": "shopping",
+        "name": "Itaewon Antique Furniture Street",
+        "area": "Itaewon",
+        "description": "A street of antique dealers selling Korean furniture, Joseon-era ceramics, and vintage objects. Serious collectors and casual browsers welcome.",
+        "tip": "Prices are negotiable. Ask the shop owners about provenance — most speak some English and love talking about their pieces.",
+        "budget": "Budget",
+        "naverQuery": "이태원 앤틱가구거리",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "1:30 PM",
+        "type": "food",
+        "name": "Itaewon International Lunch",
+        "area": "Itaewon",
+        "description": "Seoul's most diverse food block — Japanese ramen, Indian curry, Middle Eastern mezze, and Italian all on the same street. Best area in Seoul for non-Korean food.",
+        "tip": "The alleys behind the main Itaewon road (Haebangchon direction) have better prices and less tourist traffic.",
+        "budget": "Moderate",
+        "naverQuery": "이태원 레스토랑",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min uphill" },
+      {
+        "time": "3:30 PM",
+        "type": "cafe",
+        "name": "Haebangchon (HBC) Café Crawl",
+        "area": "Itaewon",
+        "description": "The charming hillside neighborhood above Itaewon with indie cafés, local bars, and a neighborhood feel you won't find in more tourist-heavy areas.",
+        "tip": "Walk up the hill to Gyeongrinan-gil — the views back toward Namsan are great. Most cafés here are quiet enough to actually work or read.",
+        "budget": "Budget",
+        "naverQuery": "해방촌 카페거리",
+        "todayOnly": false
+      },
+      { "transit": "Walk 10 min back to Itaewon" },
+      {
+        "time": "5:00 PM",
+        "type": "shopping",
+        "name": "Itaewon Vintage Shops",
+        "area": "Itaewon",
+        "description": "The best vintage and secondhand clothing in Seoul — the main street and its side alleys have dozens of curated shops.",
+        "tip": "Prices on the main drag are tourist-adjusted. The shops down the hill toward Noksapyeong are cheaper and better curated.",
+        "budget": "Budget",
+        "naverQuery": "이태원 빈티지샵",
+        "todayOnly": false
+      },
+      { "transit": "Walk 5 min" },
+      {
+        "time": "8:00 PM",
+        "type": "bar",
+        "name": "Itaewon Craft Cocktail Bars",
+        "area": "Itaewon",
+        "description": "The cocktail bar alley off the main Itaewon strip has some of the best craft drinks in Asia. Creative Korean-inspired cocktails at surprisingly reasonable prices.",
+        "tip": "Charles H at Four Seasons is worth the splurge for one round. For more casual, Bar Cham and Southside Parlor are excellent.",
+        "budget": "Moderate",
+        "naverQuery": "이태원 칵테일바",
+        "todayOnly": false
+      }
+    ]
+  }
+]
